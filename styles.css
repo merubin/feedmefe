@@ -3,7 +3,7 @@
   font-family: "Yanone Kaffeesatz", sans-serif;
 }
 html{
-  background-image: url(/images/chicken-skewers.jpg);
+  background-image: url("http://rubinsworld.com/chicken-skewers.jpg");
 }
 /*Welcome Page*/
 .pages{
